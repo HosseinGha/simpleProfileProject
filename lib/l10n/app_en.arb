@@ -1,0 +1,18 @@
+{
+    "title": "Flutter Demo",
+    "appBarTitle": "Profile",
+    "name":"Alex Green",
+    "job" : "Product Manager",
+    "location": "Paris,France",
+    "summary" : "I am very wel at work and stay good with my skil can be a good member of you team please help me in your work i will play hard for you",
+    "skills": "Skills",
+    "save": "Save",
+    "email": "Email",
+    "password": "Password",
+    "personalinfo":"Personal Information",
+    "selectedLanguage":"Selected Language",
+    "enLanguage":"English",
+    "faLanguage":"Persian"
+
+  }
+  
